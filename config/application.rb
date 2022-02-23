@@ -34,6 +34,6 @@ module PeriodicTable
 
     # Don't generate system test files.
     config.generators.system_tests = nil
-    config.hosts << "3000-foxdevfull-periodictable-sro0e35euao.ws-us33.gitpod.io"
+    config.hosts << "3000-foxdevfull-tabperiodica-v7xlugmvcw0.ws-us33.gitpod.io"
   end
 end
